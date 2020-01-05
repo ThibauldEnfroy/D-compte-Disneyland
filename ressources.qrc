@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>ressources/logoD.icns</file>
+        <file>ressources/Phantom_Manor.jpg</file>
+        <file>ressources/donnees.txt</file>
+        <file>ressources/Disney.jpg</file>
+    </qresource>
+</RCC>
